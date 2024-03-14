@@ -3,5 +3,5 @@
 #### 1. 숫자 문자열과 영단어 | 2021 카카오 채용연계형 인턴십
 https://school.programmers.co.kr/learn/courses/30/lessons/81301
 
-#### 2. 과일 장수 | 연습문
+#### 2. 과일 장수 | 연습문제 
 https://school.programmers.co.kr/learn/courses/30/lessons/135808
