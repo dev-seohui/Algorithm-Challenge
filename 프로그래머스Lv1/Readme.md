@@ -12,3 +12,5 @@ https://school.programmers.co.kr/learn/courses/30/lessons/12982
 https://school.programmers.co.kr/learn/courses/30/lessons/250121
 6. 푸드 파이터 대회 | 연습문제
 https://school.programmers.co.kr/learn/courses/30/lessons/134240
+7. 가장 가까운 같은 글자 | 연습문제
+https://school.programmers.co.kr/learn/courses/30/lessons/142086
