@@ -10,3 +10,5 @@ https://school.programmers.co.kr/learn/courses/30/lessons/12901
 https://school.programmers.co.kr/learn/courses/30/lessons/12982
 5. 데이터 분석 | PCCE 기출문제 10번
 https://school.programmers.co.kr/learn/courses/30/lessons/250121
+6. 푸드 파이터 대회 | 연습문제
+https://school.programmers.co.kr/learn/courses/30/lessons/134240
