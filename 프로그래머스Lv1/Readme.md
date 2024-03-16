@@ -18,3 +18,5 @@ https://school.programmers.co.kr/learn/courses/30/lessons/142086
 https://school.programmers.co.kr/learn/courses/30/lessons/12906
 9. 완주하지 못한 선수 | 해시
 https://school.programmers.co.kr/learn/courses/30/lessons/42576
+10. 폰켓몬 | 해시
+https://school.programmers.co.kr/learn/courses/30/lessons/1845
