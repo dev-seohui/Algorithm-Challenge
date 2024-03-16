@@ -14,3 +14,5 @@ https://school.programmers.co.kr/learn/courses/30/lessons/250121
 https://school.programmers.co.kr/learn/courses/30/lessons/134240
 7. 가장 가까운 같은 글자 | 연습문제
 https://school.programmers.co.kr/learn/courses/30/lessons/142086
+8. 같은 숫자는 싫어 | 스택/큐
+https://school.programmers.co.kr/learn/courses/30/lessons/12906
