@@ -3,7 +3,4 @@ def solution(nums):
     set_nums = set(nums)
     set_len = len(set_nums)
     # print(list_len, set_len)
-    if set_len > list_len:
-        return list_len
-    else:
-        return set_len
+    return min(list_len, set_len)
