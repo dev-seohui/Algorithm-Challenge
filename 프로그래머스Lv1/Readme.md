@@ -16,3 +16,5 @@ https://school.programmers.co.kr/learn/courses/30/lessons/134240
 https://school.programmers.co.kr/learn/courses/30/lessons/142086
 8. 같은 숫자는 싫어 | 스택/큐
 https://school.programmers.co.kr/learn/courses/30/lessons/12906
+9. 완주하지 못한 선수 | 해시
+https://school.programmers.co.kr/learn/courses/30/lessons/42576
