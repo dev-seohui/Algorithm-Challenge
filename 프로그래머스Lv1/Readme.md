@@ -20,3 +20,5 @@ https://school.programmers.co.kr/learn/courses/30/lessons/12906
 https://school.programmers.co.kr/learn/courses/30/lessons/42576
 10. 폰켓몬 | 해시
 https://school.programmers.co.kr/learn/courses/30/lessons/1845
+11. 최소직사각형 | 완전탐색
+https://school.programmers.co.kr/learn/courses/30/lessons/86491
