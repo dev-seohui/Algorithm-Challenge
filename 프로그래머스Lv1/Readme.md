@@ -22,3 +22,5 @@ https://school.programmers.co.kr/learn/courses/30/lessons/42576
 https://school.programmers.co.kr/learn/courses/30/lessons/1845
 11. 최소직사각형 | 완전탐색
 https://school.programmers.co.kr/learn/courses/30/lessons/86491
+12. K번째수 | 정렬
+https://school.programmers.co.kr/learn/courses/30/lessons/42748
