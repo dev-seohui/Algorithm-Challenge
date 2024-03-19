@@ -24,3 +24,5 @@ https://school.programmers.co.kr/learn/courses/30/lessons/1845
 https://school.programmers.co.kr/learn/courses/30/lessons/86491
 12. K번째수 | 정렬
 https://school.programmers.co.kr/learn/courses/30/lessons/42748
+13. 문자열 내 마음대로 정렬하기 | 연습문제
+https://school.programmers.co.kr/learn/courses/30/lessons/12915
