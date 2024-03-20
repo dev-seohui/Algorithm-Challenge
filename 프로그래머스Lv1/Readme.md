@@ -15,3 +15,4 @@
 13. 문자열 내 마음대로 정렬하기 | 연습문제 https://school.programmers.co.kr/learn/courses/30/lessons/12915
 14. 두 개 뽑아서 더하기 | 월간 코드 챌린지 시즌1 https://school.programmers.co.kr/learn/courses/30/lessons/68644
 15. 카드 뭉치 | 연습문제 | https://school.programmers.co.kr/learn/courses/30/lessons/159994
+16. [1차] 비밀지도 | 2018 KAKAO BLIND RECRUITMENT | https://school.programmers.co.kr/learn/courses/30/lessons/17681
