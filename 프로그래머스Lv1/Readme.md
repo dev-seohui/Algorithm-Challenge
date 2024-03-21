@@ -17,3 +17,4 @@
 15. 카드 뭉치 | 연습문제 | https://school.programmers.co.kr/learn/courses/30/lessons/159994
 16. [1차] 비밀지도 | 2018 KAKAO BLIND RECRUITMENT | https://school.programmers.co.kr/learn/courses/30/lessons/17681
 17. 명예의 전당 (1) | 연습문제 | https://school.programmers.co.kr/learn/courses/30/lessons/138477
+18. 모의고사 | 완전탐색 | https://school.programmers.co.kr/learn/courses/30/lessons/42840
