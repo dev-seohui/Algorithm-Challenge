@@ -18,3 +18,4 @@
 16. [1차] 비밀지도 | 2018 KAKAO BLIND RECRUITMENT | https://school.programmers.co.kr/learn/courses/30/lessons/17681
 17. 명예의 전당 (1) | 연습문제 | https://school.programmers.co.kr/learn/courses/30/lessons/138477
 18. 모의고사 | 완전탐색 | https://school.programmers.co.kr/learn/courses/30/lessons/42840
+19. 로또의 최고 순위와 최저 순위 | 2021 Dev-Matching: 웹 백엔드 개발자(상반기) | https://school.programmers.co.kr/learn/courses/30/lessons/77484
