@@ -20,3 +20,4 @@
 18. 모의고사 | 완전탐색 | https://school.programmers.co.kr/learn/courses/30/lessons/42840
 19. 로또의 최고 순위와 최저 순위 | 2021 Dev-Matching: 웹 백엔드 개발자(상반기) | https://school.programmers.co.kr/learn/courses/30/lessons/77484
 20. 기사단원의 무기 | 연습문제 | https://school.programmers.co.kr/learn/courses/30/lessons/136798
+21. 소수 만들기 | Summer/Winter Coding(~2018) | https://school.programmers.co.kr/learn/courses/30/lessons/12977
