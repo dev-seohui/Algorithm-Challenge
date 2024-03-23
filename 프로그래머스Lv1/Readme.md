@@ -22,3 +22,4 @@
 20. 기사단원의 무기 | 연습문제 | https://school.programmers.co.kr/learn/courses/30/lessons/136798
 21. 소수 만들기 | Summer/Winter Coding(~2018) | https://school.programmers.co.kr/learn/courses/30/lessons/12977
 22. 소수 찾기 | 연습문제 | https://school.programmers.co.kr/learn/courses/30/lessons/12921
+23. 덧칠하기 | 연습문제 | https://school.programmers.co.kr/learn/courses/30/lessons/161989
