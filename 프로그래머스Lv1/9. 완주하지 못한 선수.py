@@ -1,17 +1,18 @@
 def solution(participant, completion):
-    part_dic = {}
-    comp_dic = {}
-    part_total = 0
-    comp_total = 0
     answer = ""
-  
+
+    dic1 = {}
+    dic2 = {}
+    count1, count2 = 0, 0
+
     for p in participant:
-        part_dic[hash(p)] = p
-        part_total += hash(p)
+        dic1[hash(p)] = p
+        count1 += hash(p)
+
     for c in completion:
-        comp_dic[hash(c)] = c
-        comp_total += hash(c)
-    
-    value = part_total - comp_total
-    answer += part_dic[value]
+        dic2[hash(c)] = c
+        count2 += hash(c)
+
+    val = count1 - count2
+    answer += dic1[val]
     return answer
