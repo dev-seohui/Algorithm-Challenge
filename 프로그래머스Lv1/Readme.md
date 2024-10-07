@@ -28,3 +28,4 @@
 26. 둘만의 암호 | 연습문제 | https://school.programmers.co.kr/learn/courses/30/lessons/155652
 27. 햄버거 만들기 | 연습문제 | https://school.programmers.co.kr/learn/courses/30/lessons/133502
 28. 올바른 괄호 | 스택/큐 | https://school.programmers.co.kr/learn/courses/30/lessons/12909
+29. 기능개발 | 스택/큐 | https://school.programmers.co.kr/learn/courses/30/lessons/42586
