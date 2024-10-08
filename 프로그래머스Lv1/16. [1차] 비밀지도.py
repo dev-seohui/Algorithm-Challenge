@@ -1,14 +1,15 @@
 def solution(n, arr1, arr2):
     answer = []
+
+    nrr1 = [f'{x:0{n}b}' for x in arr1]
+    nrr2 = [f'{x:0{n}b}' for x in arr2]
+
     for i in range(n):
-        code = ""
-        str1, str2 = bin(arr1[i])[2:].zfill(n), bin(arr2[i])[2:].zfill(n)
-        # print(str1, str2)
+        temp = ""
         for j in range(n):
-            if str1[j]!='0' or str2[j]!='0':
-                code += "#"
+            if nrr1[i][j] == '1' or nrr2[i][j] == '1':
+                temp += "#"
             else:
-                code += " "
-        answer.append(code)
-    # print(answer)
+                temp += " "
+        answer.append(temp)
     return answer
