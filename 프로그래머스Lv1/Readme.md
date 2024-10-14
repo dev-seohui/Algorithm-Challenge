@@ -27,3 +27,4 @@
 25. 대충 만든 자판 | 연습문제 | https://school.programmers.co.kr/learn/courses/30/lessons/160586
 26. 둘만의 암호 | 연습문제 | https://school.programmers.co.kr/learn/courses/30/lessons/155652
 27. 햄버거 만들기 | 연습문제 | https://school.programmers.co.kr/learn/courses/30/lessons/133502
+28. 나머지가 1이 되는 수 찾기 | 월간 코드 챌린지 시즌3 | https://school.programmers.co.kr/learn/courses/30/lessons/87389
