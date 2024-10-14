@@ -28,4 +28,5 @@
 26. 둘만의 암호 | 연습문제 | https://school.programmers.co.kr/learn/courses/30/lessons/155652
 27. 햄버거 만들기 | 연습문제 | https://school.programmers.co.kr/learn/courses/30/lessons/133502
 28. 나머지가 1이 되는 수 찾기 | 월간 코드 챌린지 시즌3 | https://school.programmers.co.kr/learn/courses/30/lessons/87389
-29. x만큼 간격이 있는 n개의 숫자 | 연습문제 | https://school.programmers.co.kr/learn/courses/30/lessons/12954 
+29. x만큼 간격이 있는 n개의 숫자 | 연습문제 | https://school.programmers.co.kr/learn/courses/30/lessons/12954
+30. 자릿수 더하기 | 연습문제 | https://school.programmers.co.kr/learn/courses/30/lessons/12931
