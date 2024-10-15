@@ -30,3 +30,4 @@
 28. 나머지가 1이 되는 수 찾기 | 월간 코드 챌린지 시즌3 | https://school.programmers.co.kr/learn/courses/30/lessons/87389
 29. x만큼 간격이 있는 n개의 숫자 | 연습문제 | https://school.programmers.co.kr/learn/courses/30/lessons/12954
 30. 자릿수 더하기 | 연습문제 | https://school.programmers.co.kr/learn/courses/30/lessons/12931
+31. 문자열 내 p와 y의 개수 | 연습문제 | https://school.programmers.co.kr/learn/courses/30/lessons/12916
