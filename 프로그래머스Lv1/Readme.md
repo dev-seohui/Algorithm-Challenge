@@ -33,3 +33,4 @@
 31. 문자열 내 p와 y의 개수 | 연습문제 | https://school.programmers.co.kr/learn/courses/30/lessons/12916
 32. 정수 내림차순으로 배치하기 | 연습문제 | https://school.programmers.co.kr/learn/courses/30/lessons/12933
 33. 하샤드 수 | 연습문제 | https://school.programmers.co.kr/learn/courses/30/lessons/12947
+34. 두 정수 사이의 합 | 연습문제 | https://school.programmers.co.kr/learn/courses/30/lessons/12912
