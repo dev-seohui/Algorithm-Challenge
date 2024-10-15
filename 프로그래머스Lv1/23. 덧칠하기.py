@@ -1,8 +1,12 @@
+
 def solution(n, m, section):
-    count = 1
-    start = section[0]
-    for i in range(1, len(section)):
-        if section[i]-start >= m:
+
+    count = 0
+    current = 0
+
+    for s in section:
+        if s > current:
             count += 1
-            start = section[i]
+            current = s+m-1
+
     return count
