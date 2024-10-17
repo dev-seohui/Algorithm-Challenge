@@ -7,3 +7,4 @@
 5. 최댓값과 최솟값 | 연습문제 | https://school.programmers.co.kr/learn/courses/30/lessons/12939
 6. 최솟값 만들기 | 연습문제 | https://school.programmers.co.kr/learn/courses/30/lessons/12941
 7. 이진 변환 반복하기 | 월간 코드 챌린지 시즌1 | https://school.programmers.co.kr/learn/courses/30/lessons/70129
+8. 다음 큰 숫자 | 연습문제 | https://school.programmers.co.kr/learn/courses/30/lessons/12911
