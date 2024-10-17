@@ -10,3 +10,4 @@
 8. 다음 큰 숫자 | 연습문제 | https://school.programmers.co.kr/learn/courses/30/lessons/12911
 9. 짝지어 제거하기 | 2017 팁스타운 | https://school.programmers.co.kr/learn/courses/30/lessons/12973
 10. 숫자의 표현 | 연습문제 | https://school.programmers.co.kr/learn/courses/30/lessons/12924
+11. 카펫 | 완전탐색 | https://school.programmers.co.kr/learn/courses/30/lessons/42842
