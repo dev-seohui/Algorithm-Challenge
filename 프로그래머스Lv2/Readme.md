@@ -9,3 +9,4 @@
 7. 이진 변환 반복하기 | 월간 코드 챌린지 시즌1 | https://school.programmers.co.kr/learn/courses/30/lessons/70129
 8. 다음 큰 숫자 | 연습문제 | https://school.programmers.co.kr/learn/courses/30/lessons/12911
 9. 짝지어 제거하기 | 2017 팁스타운 | https://school.programmers.co.kr/learn/courses/30/lessons/12973
+10. 숫자의 표현 | 연습문제 | https://school.programmers.co.kr/learn/courses/30/lessons/12924
