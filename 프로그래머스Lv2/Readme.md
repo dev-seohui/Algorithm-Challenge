@@ -11,3 +11,4 @@
 9. 짝지어 제거하기 | 2017 팁스타운 | https://school.programmers.co.kr/learn/courses/30/lessons/12973
 10. 숫자의 표현 | 연습문제 | https://school.programmers.co.kr/learn/courses/30/lessons/12924
 11. 카펫 | 완전탐색 | https://school.programmers.co.kr/learn/courses/30/lessons/42842
+12. 귤 고르기 | 연습문제 | https://school.programmers.co.kr/learn/courses/30/lessons/138476
