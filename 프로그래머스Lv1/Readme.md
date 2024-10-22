@@ -35,3 +35,4 @@
 33. 하샤드 수 | 연습문제 | https://school.programmers.co.kr/learn/courses/30/lessons/12947
 34. 두 정수 사이의 합 | 연습문제 | https://school.programmers.co.kr/learn/courses/30/lessons/12912
 35. 콜라츠 추측 | 연습문제 | https://school.programmers.co.kr/learn/courses/30/lessons/12943
+36. 이상한 문자 만들기 | 연습문제 | https://school.programmers.co.kr/learn/courses/30/lessons/12930
