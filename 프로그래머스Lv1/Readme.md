@@ -40,3 +40,4 @@
 38. 3진법 뒤집기 | 월간 코드 챌린지 시즌1 | https://school.programmers.co.kr/learn/courses/30/lessons/68935
 39. 삼총사 | 연습문제 | https://school.programmers.co.kr/learn/courses/30/lessons/131705
 40. 시저 암호 | 연습문제 | https://school.programmers.co.kr/learn/courses/30/lessons/12926
+41. 콜라 문제 | 연습문제 | https://school.programmers.co.kr/learn/courses/30/lessons/132267
