@@ -38,3 +38,4 @@
 36. 이상한 문자 만들기 | 연습문제 | https://school.programmers.co.kr/learn/courses/30/lessons/12930
 37. 크기가 작은 부분 문자열 | 연습문제 | https://school.programmers.co.kr/learn/courses/30/lessons/147355
 38. 3진법 뒤집기 | 월간 코드 챌린지 시즌1 | https://school.programmers.co.kr/learn/courses/30/lessons/68935
+39. 삼총사 | 연습문제 | https://school.programmers.co.kr/learn/courses/30/lessons/131705
