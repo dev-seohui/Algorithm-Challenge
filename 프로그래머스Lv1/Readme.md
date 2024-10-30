@@ -41,3 +41,4 @@
 39. 삼총사 | 연습문제 | https://school.programmers.co.kr/learn/courses/30/lessons/131705
 40. 시저 암호 | 연습문제 | https://school.programmers.co.kr/learn/courses/30/lessons/12926
 41. 콜라 문제 | 연습문제 | https://school.programmers.co.kr/learn/courses/30/lessons/132267
+42. 추억 점수 | 연습문제 | https://school.programmers.co.kr/learn/courses/30/lessons/176963
