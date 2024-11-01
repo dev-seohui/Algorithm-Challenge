@@ -14,3 +14,4 @@
 12. 귤 고르기 | 연습문제 | https://school.programmers.co.kr/learn/courses/30/lessons/138476
 13. N개의 최소공배수 | 연습문제 | https://school.programmers.co.kr/learn/courses/30/lessons/12953
 14. 영어 끝말잇기 | Summer/Winter Coding(~2018) | https://school.programmers.co.kr/learn/courses/30/lessons/12981
+15. 구명보트 | 탐욕법(Greedy) | https://school.programmers.co.kr/learn/courses/30/lessons/42885
