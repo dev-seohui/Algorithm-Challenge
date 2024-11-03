@@ -16,3 +16,4 @@
 14. 영어 끝말잇기 | Summer/Winter Coding(~2018) | https://school.programmers.co.kr/learn/courses/30/lessons/12981
 15. 구명보트 | 탐욕법(Greedy) | https://school.programmers.co.kr/learn/courses/30/lessons/42885
 16. 예상 대진표 | 2017 팁스타운 | https://school.programmers.co.kr/learn/courses/30/lessons/12985
+17. 연속 부분 수열 합의 개수 | 연습문제 | https://school.programmers.co.kr/learn/courses/30/lessons/131701
