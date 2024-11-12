@@ -20,3 +20,4 @@
 18. 괄호 회전하기 | 월간 코드 챌린지 시즌2 | https://school.programmers.co.kr/learn/courses/30/lessons/76502
 19. n^2 배열 자르기 | 월간 코드 챌린지 시즌3 | https://school.programmers.co.kr/learn/courses/30/lessons/87390
 20. 할인 행사 | 연습문제 | https://school.programmers.co.kr/learn/courses/30/lessons/131127
+21. [3차] 파일명 정렬 | 2018 KAKAO BLIND RECRUITMENT | https://school.programmers.co.kr/learn/courses/30/lessons/17686
