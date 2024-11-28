@@ -1,15 +1,20 @@
+
 def solution(N, stages):
-    T = len(stages)
-    F = []
+    arrival = [0] * (N + 2)  
 
-    for s in range(1, N+1):
-        U = stages.count(s)
-        if T == 0:
-            rate = 0
-        else:
-            rate = U / T
-        F.append((s, rate))
-        T -= U
+    for stage in stages:
+        arrival[stage] += 1
 
-    F.sort(key=lambda x: (-x[1], x[0]))
-    return [s for s, _ in F]
+    result = []
+    total_players = len(stages) 
+
+    for i in range(1, N + 1):
+        if total_players > 0: 
+            failure_rate = arrival[i] / total_players
+            result.append([i, failure_rate])
+            total_players -= arrival[i]  
+        else:  
+            result.append([i, 0])
+
+    answer = sorted(result, key=lambda x: (-x[1], x[0]))
+    return [x[0] for x in answer]
