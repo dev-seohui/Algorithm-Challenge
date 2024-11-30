@@ -1,6 +1,5 @@
 ### 문제풀이 순서
 - 햄버거 만들기 | 프로그래머스 Lv1 | https://school.programmers.co.kr/learn/courses/30/lessons/133502
-- 문자열 내 마음대로 정렬하기 | 프로그래머스 Lv1 | https://school.programmers.co.kr/learn/courses/30/lessons/12915
 - [1차] 비밀지도 | 프로그래머스 Lv1 | https://school.programmers.co.kr/learn/courses/30/lessons/17681
 - 로또의 최고 순위와 최저 순위 | 프로그래머스 Lv1 | https://school.programmers.co.kr/learn/courses/30/lessons/77484
 - 기사단원의 무기 | 프로그래머스 Lv1 | https://school.programmers.co.kr/learn/courses/30/lessons/136798
