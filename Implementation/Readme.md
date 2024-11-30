@@ -16,7 +16,6 @@
 - 영어 끝말잇기 | 프로그래머스 Lv2 | https://school.programmers.co.kr/learn/courses/30/lessons/12981
 - 예상 대진표 | 프로그래머스 Lv2 | https://school.programmers.co.kr/learn/courses/30/lessons/12985
 - 연속 부분 수열 합의 개수 | 프로그래머스 Lv2 | https://school.programmers.co.kr/learn/courses/30/lessons/131701
-- 괄호 회전하기 | 프로그래머스 Lv2 | https://school.programmers.co.kr/learn/courses/30/lessons/76502
 - n^2 배열 자르기 | 프로그래머스 Lv2 | https://school.programmers.co.kr/learn/courses/30/lessons/87390
 - 할인 행사 | 프로그래머스 Lv2 | https://school.programmers.co.kr/learn/courses/30/lessons/131127
 - [1차] 캐시 | 프로그래머스 Lv2 | https://school.programmers.co.kr/learn/courses/30/lessons/17680
