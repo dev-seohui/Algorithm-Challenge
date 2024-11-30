@@ -20,3 +20,4 @@
 - 할인 행사 | 프로그래머스 Lv2 | https://school.programmers.co.kr/learn/courses/30/lessons/131127
 - [1차] 캐시 | 프로그래머스 Lv2 | https://school.programmers.co.kr/learn/courses/30/lessons/17680
 - 문자열 나누기 | 구름 Lv1 | https://level.goorm.io/exam/159665/%EB%AC%B8%EC%9E%90%EC%97%B4-%EB%82%98%EB%88%84%EA%B8%B0/quiz/1
+- 거울 단어 | 구름 Lv2 | https://level.goorm.io/exam/49066/%EA%B1%B0%EC%9A%B8-%EB%8B%A8%EC%96%B4/quiz/1
