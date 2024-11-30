@@ -19,3 +19,4 @@
 - **Greedy**
 - **Topological Sorting**
 - **Binary Search**
+- **Brute Force Search **
