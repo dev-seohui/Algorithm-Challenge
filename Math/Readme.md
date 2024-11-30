@@ -5,3 +5,5 @@
 - 피보나치 수 | 프로그래머스 Lv2 | https://school.programmers.co.kr/learn/courses/30/lessons/12945
 - 최댓값과 최솟값 | 프로그래머스 Lv2 | https://school.programmers.co.kr/learn/courses/30/lessons/12939
 - 최솟값 만들기 | 프로그래머스 Lv2 | https://school.programmers.co.kr/learn/courses/30/lessons/12941
+- 이진 변환 반복하기 | 프로그래머스 Lv2 | https://school.programmers.co.kr/learn/courses/30/lessons/70129
+- N개의 최소공배수 | 프로그래머스 Lv2 | https://school.programmers.co.kr/learn/courses/30/lessons/12953
