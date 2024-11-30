@@ -19,3 +19,4 @@
 - n^2 배열 자르기 | 프로그래머스 Lv2 | https://school.programmers.co.kr/learn/courses/30/lessons/87390
 - 할인 행사 | 프로그래머스 Lv2 | https://school.programmers.co.kr/learn/courses/30/lessons/131127
 - [1차] 캐시 | 프로그래머스 Lv2 | https://school.programmers.co.kr/learn/courses/30/lessons/17680
+- 문자열 나누기 | 구름 Lv1 | https://level.goorm.io/exam/159665/%EB%AC%B8%EC%9E%90%EC%97%B4-%EB%82%98%EB%88%84%EA%B8%B0/quiz/1
