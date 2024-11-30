@@ -44,3 +44,4 @@
 42. 추억 점수 | 연습문제 | https://school.programmers.co.kr/learn/courses/30/lessons/176963
 43. 옹알이 (2) | 연습문제 | https://school.programmers.co.kr/learn/courses/30/lessons/133499
 44. [PCCE 기출문제] 9번 / 지폐 접기 | PCCE 기출문제 | https://school.programmers.co.kr/learn/courses/30/lessons/340199
+45. [1차] 다트 게임 | 2018 KAKAO BLIND RECRUITMENT | https://school.programmers.co.kr/learn/courses/30/lessons/17682
