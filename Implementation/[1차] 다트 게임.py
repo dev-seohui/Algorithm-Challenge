@@ -31,7 +31,7 @@ def solution(dartResult):
     return sum(answer)
 
 
-*** 참고하면 좋을 코드 ***
+# 참고하면 좋을 코드
 def solution(dartResult):
     dart = {'S':1, 'D':2, 'T':3}
     scores = []
