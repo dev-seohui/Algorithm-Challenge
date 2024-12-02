@@ -2,3 +2,4 @@
 - 완주하지 못한 선수 | 프로그래머스 Lv1 | https://school.programmers.co.kr/learn/courses/30/lessons/42576
 - 폰켓몬 | 프로그래머스 Lv1 | https://school.programmers.co.kr/learn/courses/30/lessons/1845
 - 의상 | 프로그래머스 Lv2 | https://school.programmers.co.kr/learn/courses/30/lessons/42578
+- 전화번호 목록 | 프로그래머스 Lv2 | https://school.programmers.co.kr/learn/courses/30/lessons/42577
