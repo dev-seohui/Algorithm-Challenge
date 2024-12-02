@@ -18,4 +18,6 @@ for case in range(n):
     else:
       print("YES")
 
-# def로 구현하는 게 아닌 경우에는 for문이 끝나고 else를 적어야 하는 것을 기억하자
+"""
+def로 구현하는 게 아닌 경우에는 for문이 끝나고 else를 적어야 하는 것을 기억
+"""
