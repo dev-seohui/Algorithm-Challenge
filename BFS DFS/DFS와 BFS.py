@@ -1,35 +1,38 @@
 from collections import deque
 
-N, M, V = map(int, input().split())
-graph = [[False]*(N+1) for _ in range(N+1)]
+def dfs(adjacent_list, start_node):
+    visited = []
+    stack = [start_node] 
+    while stack:
+        current = stack.pop()  
+        if current not in visited:
+            visited.append(current)  
+            stack.extend(reversed(adjacent_list[current]))
+    return visited
 
-for _ in range(M):
-    a, b = map(int, input().split())
-    graph[a][b] = True
-    graph[b][a] = True 
-
-visited_bfs = [False]*(N+1)
-visited_dfs = [False]*(N+1)
-
-def bfs(start_node):
-    queue = deque()
-    queue.append(start_node)
-    visited_bfs[start_node] = True
+def bfs(adjacent_list, start_node):
+    visited = [] 
+    queue = deque([start_node]) 
     while queue:
-        current = queue.popleft()
-        print(current, end=" ")
-        for i in range(1, N+1):
-            if not visited_bfs[i] and graph[current][i]:
-                queue.append(i)
-                visited_bfs[i] = True
+        current = queue.popleft()  
+        if current not in visited:
+            visited.append(current) 
+            queue.extend(adjacent_list[current])  
+    return visited
 
-def dfs(start_node):
-    visited_dfs[start_node] = True
-    print(start_node, end=" ")
-    for i in range(1, N+1):
-        if not visited_dfs[i] and graph[start_node][i]:
-            dfs(i)
+n, m, v = map(int, input().split())  
+adjacent_list = {i: [] for i in range(1, n + 1)}  
 
-dfs(V)
-print()
-bfs(V)
+for _ in range(m):
+    a, b = map(int, input().split())
+    adjacent_list[a].append(b)
+    adjacent_list[b].append(a)
+
+for key in adjacent_list:
+    adjacent_list[key].sort()
+
+dfs_result = dfs(adjacent_list, v)
+print(" ".join(map(str, dfs_result)))
+
+bfs_result = bfs(adjacent_list, v)
+print(" ".join(map(str, bfs_result)))
