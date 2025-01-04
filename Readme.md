@@ -13,7 +13,7 @@
 - **Heap**
  *** 
 - **Recursion**
-- **BFS&DFS**
+- **BFS DFS**
 - **Dynamic Programming**
 - **Greedy**
 - **Topological Sorting**
