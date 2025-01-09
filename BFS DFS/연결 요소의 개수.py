@@ -10,6 +10,7 @@ def dfs(node):
 
 n, m = map(int, input().split())
 adjacent_list = [[] for _ in range(n + 1)]
+
 for _ in range(m):
     u, v = map(int, input().split())
     adjacent_list[u].append(v)
