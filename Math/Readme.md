@@ -9,3 +9,4 @@
 - [N개의 최소공배수 | 프로그래머스 Lv2](https://school.programmers.co.kr/learn/courses/30/lessons/12953)
 - [로또 | 백준 6603](https://www.acmicpc.net/problem/6603)
 - [약수 | 백준 1037](https://www.acmicpc.net/problem/1037)
+- [약수의 합 2 | 백준 17427](https://www.acmicpc.net/problem/17427)
