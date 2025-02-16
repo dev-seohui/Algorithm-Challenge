@@ -11,3 +11,4 @@
 - [약수 | 백준 1037](https://www.acmicpc.net/problem/1037)
 - [약수의 합 2 | 백준 17427](https://www.acmicpc.net/problem/17427)
 - [피자 나눠 먹기 (2) | 프로그래머스 Lv0](https://school.programmers.co.kr/learn/courses/30/lessons/120815)
+- [합성수 찾기 | 프로그래머스 Lv0](https://school.programmers.co.kr/learn/courses/30/lessons/120846)
