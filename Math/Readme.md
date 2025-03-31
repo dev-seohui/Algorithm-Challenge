@@ -13,3 +13,4 @@
 - [피자 나눠 먹기 (2) | 프로그래머스 Lv0](https://school.programmers.co.kr/learn/courses/30/lessons/120815)
 - [합성수 찾기 | 프로그래머스 Lv0](https://school.programmers.co.kr/learn/courses/30/lessons/120846)
 - [팩토리얼 | 프로그래머스 Lv0](https://school.programmers.co.kr/learn/courses/30/lessons/120848)
+- [소인수분해 | 프로그래머스 Lv0](https://school.programmers.co.kr/learn/courses/30/lessons/120852)
