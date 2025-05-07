@@ -7,3 +7,4 @@
 - [연결 요소의 개수 | 백준 11724](https://www.acmicpc.net/problem/11724)
 - [두 동전 | 백준 16197](https://www.acmicpc.net/problem/16197)
 - [타겟 넘버 | 프로그래머스 Lv2](https://school.programmers.co.kr/learn/courses/30/lessons/43165)
+- [배열 만들기 2 | 프로그래머스 Lv0]((https://school.programmers.co.kr/learn/courses/30/lessons/181921)
